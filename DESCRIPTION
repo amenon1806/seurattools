@@ -13,3 +13,5 @@ Imports:
     grDevices,
     logger,
     Seurat
+URL: https://github.com/amenon1806/seurattools
+BugReports: https://github.com/amenon1806/seurattools/issues
